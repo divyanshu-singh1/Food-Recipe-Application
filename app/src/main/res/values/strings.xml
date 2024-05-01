@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food Recipe App</string>
+    <string name="green_circle">🟢</string>
+    <string name="bullet_point">•</string>
+</resources>
